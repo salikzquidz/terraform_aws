@@ -1,0 +1,9 @@
+These 2 will loaded automatically
+
+- terraform.tfvars
+- *.auto.tfvars
+
+This can be used if want to specify multiple different values, example command is
+`terraform plan -var-file="myexample.tfvars" `
+
+- *.tfvars

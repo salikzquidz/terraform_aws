@@ -1,0 +1,10 @@
+# will be created by terraform init command
+*/.terraform 
+*/.terraform.lock.hcl
+*/terraform.tfstate.backup
+*/terraform.tfstate
+
+*/standardized/.terraform 
+*/standardized/.terraform.lock.hcl
+*/standardized/terraform.tfstate.backup
+*/standardized/terraform.tfstate
