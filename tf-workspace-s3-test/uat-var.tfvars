@@ -1,0 +1,1 @@
+account_alias = "salikzquidz-uat-alias"

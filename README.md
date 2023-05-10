@@ -13,3 +13,4 @@ Terraform Best Practices
 ### Exploration path
 
 - EX-CHAPTER 1 : Terraform Cloud Getting Started - `tfc-getting-started`
+- EX-CHAPTER 2 : Terraform Workspace with S3 bucket as backend- `tf-workspace-s3-test`
