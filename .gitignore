@@ -10,3 +10,4 @@
 */standardized/terraform.tfstate
 
 */private-key/*
+**/.DS_Store
