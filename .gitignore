@@ -8,3 +8,5 @@
 */standardized/.terraform.lock.hcl
 */standardized/terraform.tfstate.backup
 */standardized/terraform.tfstate
+
+*/private-key/*
