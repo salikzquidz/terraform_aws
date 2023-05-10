@@ -1,0 +1,10 @@
+Terraform provisioners - used to model specific actions on local/remote machine in preparing server process
+
+- file
+- remote-exec
+- local-exec
+
+Null Resource
+Connection Block - provisioners require access to the remote resources via SSH or WinRM
+
+copy ec2 keypair to ec2 instance
