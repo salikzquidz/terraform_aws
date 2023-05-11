@@ -14,3 +14,4 @@ Terraform Best Practices
 
 - EX-CHAPTER 1 : Terraform Cloud Getting Started - `tfc-getting-started`
 - EX-CHAPTER 2 : Terraform Workspace with S3 bucket as backend- `tf-workspace-s3-test`
+- EX-CHAPTER 3 : Terraform Workpsace with Terraform Cloud as backend - `tf-workspace-tfc-test`

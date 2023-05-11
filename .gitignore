@@ -11,3 +11,4 @@
 
 */private-key/*
 **/.DS_Store
+**/*.tfvars
